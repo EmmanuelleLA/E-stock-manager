@@ -1,0 +1,228 @@
+/*------------------------------------------------------------------------------
+	WEB : page design
+------------------------------------------------------------------------------*/
+
+
+
+/*==============================
+	Layout
+==============================*/
+
+/* Wrapper */
+.wrapper {
+	width: 1350px;
+	min-height: 100vh;
+	/* margin: 0px auto 0px auto; */
+	/* background-color: #f4f4f4; */
+	background-image: url("../images/saine.png");
+
+}
+
+
+
+/* .indi { */
+	/* width: 1350px;
+	min-height: 100vh; */
+	/* background-color: pink; */
+	/* background-position: center; */
+/*
+} */
+/* margin: 0px auto 0px auto; */
+
+html body {
+ margin:0;
+ padding:0;
+ }
+
+ * {
+ margin:0;
+ padding:0;
+ }
+
+
+ button{
+ 	display: inline-block;
+ 	vertical-align: top;
+ 	width: 300px;
+	background-color : rgba(255,255,255,0.3);
+ 	padding: 10px;
+ 	font-size: 1.8vw;
+ 	margin: 70px 0px 0px 100px;
+	border-style: none;
+
+ }
+
+
+
+.number{
+	/* color: green; */
+	margin-left: 480px;
+	font-size: 30px;
+}
+
+.Nameprod{
+	/* margin-left: 300px;
+	margin-top: 0px; */
+	display: inline-block;
+	margin-left: 300px;
+	margin-top: 0px;
+	padding-right: 350px;
+}
+
+
+
+p{
+	display: inline-block;
+	vertical-align: top;
+	font-size: 40px;
+	width: 100px;
+	/* background-color: pink; */
+	margin-left: 0px;
+}
+/*==============================
+	Style
+==============================*/
+
+/* Set font */
+* {
+	font-family: "Open Sans", "Arial", "Helvetica", Palatino, sans-serif;
+}
+
+header{
+
+	padding: 70px;
+	font-size: 30px;
+	text-align: center;
+
+	text-decoration: underline;
+}
+
+h2{
+	text-align: center;
+
+}
+
+aside h2 {
+	cursor: pointer;
+}
+
+
+
+.pom{
+	margin: 0px;
+	padding: 0px;
+}
+
+.BDnom{
+	/* padding-top: 72px; */
+	font-size: 25px;
+	margin: 20px 0px 0px 0px;
+}
+
+
+.pim{
+	width: 150px;
+	margin: 0px;
+}
+
+img {
+border-radius: 5px;
+}
+
+.BDquant{
+
+	text-align: center;
+	/* margin-left: 2px; */
+	margin: 20px 0px 0px 0px;w
+	width: 500px;
+
+	font-size: 25px;
+	/* background: green; */
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	list-style: none;
+	width: 500px;
+  margin: 0px;
+	/* background-color: yellow; */
+	/*width: 500px;*/
+	/* padding: 10px; */
+
+}
+
+li{
+
+	border-style: none none solid none;
+	border-color: #e5e5e5;
+	padding: 20px;
+	/* background: pink; */
+}
+
+.bouton{
+	display: inline-block;
+	vertical-align: top;
+	background-color:#bc0a22;
+	/* width: 25vw; */
+	border-style: solid;
+	border-color: #00000033;
+	padding: 5px;
+	font-size: 1.5vw;
+	color: white;
+	border-radius: 2px;
+	/* margin: 0px 0px 0px 100px; */
+
+}
+
+section{
+	background-color: white;
+}
+aside {
+	/* display: inline-block;
+	vertical-align: top; */
+ 	margin: 0px 0px 0px 750px;
+}
+
+article{
+	background-color: #FFFFFF;
+	width: 1200px;
+	margin: 30px auto 0px; auto;
+	/* background-color: green; */
+}
+
+
+
+
+/*==============================
+	Classes
+==============================*/
+
+
+
+/*==============================
+	Responsive design
+==============================*/
+
+/* Media query : mobile */
+@media (max-width: 600px) {
+
+
+
+
+
+}
+
+
+
+/* Media query : tablet */
+@media (min-width: 600px) and (max-width: 1200px) {
+
+}
+
+
+
+/* Media query : laptop */
+@media (min-width: 1200px) {
+
+}
