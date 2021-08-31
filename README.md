@@ -16,4 +16,5 @@ Composants :
 Fonctionnement : 
 Les scripts Python permettent de récupérer la valeur du code-barres, de faire du Web scraping afin de récupérer le nom et l'image qui sont associés au code-barres sur le site https://fr.openfoodfacts.org/ et enfin de rentrer ces données dans la base de données. Ensuite, ces informations vont être affichées sur le site Web. 
 
-
+![Screenshot 2021-08-31 at 17 33 10](https://user-images.githubusercontent.com/88400903/131532848-75cad366-cec4-4031-9d0c-57520c60478c.png)
+![Screenshot 2021-08-31 at 17 33 32](https://user-images.githubusercontent.com/88400903/131532864-4ae50b76-62c4-4ea0-8850-74eb3985d35c.png)
